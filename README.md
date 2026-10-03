@@ -3,7 +3,6 @@
 Smart Queue Management System
 A Java-based console application developed as a PBL project.
 
-Project Source Code: QueueManagementSystem_Console_Updated2.zip
 
 Team Members:
 
